@@ -1,4 +1,4 @@
-# Metaverse-for-Smart-Factory-Contest-2022-Team-2-Alumirise
+# Metaverse for Smart Factory Contest 2022 
 ผลงานการแข่งขัน Metaverse for Smart Factory Contest 2022 (https://smartfactory.hcilab.net/contest/metaverse2022/)
 ## ชื่อผลงาน วิสตอรี่ (VISTORY)
 ### ที่มาและความสำคัญ
@@ -16,4 +16,14 @@
 
 ![Screenshot (824)](https://user-images.githubusercontent.com/114386015/194265047-b215087b-3905-45da-8f35-d5a3e1b482ee.png)
 
+### คลิปสาธิตผลงาน
 https://youtu.be/jfrqrqe9vmA
+
+## รายชื่อสมาชิกทีม Alumirise
+1. ชยพัทธ์ พีรนพวัฒน์
+2. ธีรนันท์ อนุพันธ์
+3. ต้นตะวัน ใจเที่ยง
+4. รามฤทธิ์ สุดใจ
+5. ศิวัชณัฎฐ์ คำหงษา 
+### ช่องทางการติดต่อ
+Email: chayapatppp@gmail.com 
